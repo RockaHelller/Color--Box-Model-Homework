@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.all {
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: 145px;
+}
+
+.delivery {
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.fa-solid {
+    color: white;
+    background-color: rgb(188, 111, 81);
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    display: inline-block;
+}
+
+
+.word {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.lorem {
+    color: rgb(113,113,108);
+    line-height: 25px;
+}
